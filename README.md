@@ -3,4 +3,4 @@
 
 To start: 
 npm install
-npm rund dev
+npm run dev
